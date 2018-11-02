@@ -1,7 +1,7 @@
 # Site settings
 title: abapGit Bunkai
 email: info@abapgit-bunkai.org
-description:learn abapGit with abapGit Bunkai  > # this means to ignore newlines until "baseurl:"
+description: learn abapGit with abapGit Bunkai  > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://abapgit.org" # the base hostname & protocol for your site
 
